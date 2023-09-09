@@ -1,10 +1,10 @@
 {
-  "name": "hexo-theme-aurora",
+  "name": "hexo-theme-aurora-em",
   "version": "0.0.0-semantic-release",
   "description": "Futuristic auroral theme for Hexo.",
-  "author": "Benny Guo <bennyxguo6@gmail.com>",
+  "author": "Virtualansh",
   "license": "MIT",
-  "repository": "https://github.com/auroral-ui/hexo-theme-aurora",
+  "repository": "https://github.com/virtualansh/hexo-theme-aurora-em",
   "keywords": [
     "hexo",
     "hexo-theme",
